@@ -1,4 +1,6 @@
 *.obj
 *.bat
 *.pdb
+*.exe
+*.ilk
 .vscode/*
